@@ -1,1 +1,1 @@
-#Simple game snake.
+Simple game snake.
