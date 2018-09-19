@@ -66,7 +66,7 @@ class Snake:
             self.score += 1
             self.body.append(self.tar)
             self.tar = create_target()
-            if self.speed > 0.02: self.speed -= 0.002
+            if self.speed > 0.02: self.speed -= 0.01
             panel.delete('score')
             panel.create_text(60, 16, text='score: ' + str(self.score), tag='score', font='Arial 12', fill='#FFF')
 
