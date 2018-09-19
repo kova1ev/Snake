@@ -1,2 +1,1 @@
-# Snake-Laura
-Simple snake game.
+#Simple game snake.
