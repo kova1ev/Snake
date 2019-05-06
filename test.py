@@ -10,4 +10,4 @@ def do_something():
 
 
 names = "messi ronaldo salah mbappe".split()
-print(names)
+clubs = "barselona juventus liverpool psg".split()
