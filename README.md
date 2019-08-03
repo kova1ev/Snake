@@ -1,3 +1,6 @@
-Простая реализация игры "Змейка" на python.<br>
-Графический интерфейс tkinter.<br>
-Для управления используйте клавиши W,A,S,D пробел - пауза.
+### Game "snake", python implementation
+
+- clone repository
+- \$ python game.py
+
+WASD keys for control, whitespace - pause
