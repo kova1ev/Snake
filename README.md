@@ -4,3 +4,5 @@
 - \$ python game.py
 
 WASD keys for control, whitespace - start/pause
+
+test
